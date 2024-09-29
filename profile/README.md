@@ -1,5 +1,5 @@
 
-# Based Linux
+# Fruit Linux
 
  - Lightweight
  - Secure
